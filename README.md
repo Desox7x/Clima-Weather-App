@@ -1,0 +1,10 @@
+
+# Clima ☁
+
+Weather App made in Flutter,  in this app I practice Asynchronous Programming in Dart, and consuming data (APIs) from the internet while getting the device location.
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
+
+****************************
+
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
